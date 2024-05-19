@@ -13,7 +13,7 @@
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="otavio.scarpelline@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/LPcVDft9Isqt/email" alt="otavio barbosa scarpellini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/otavio barbosa scarpellini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavio barbosa scarpellini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/OtavioBScar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavio barbosa scarpellini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
