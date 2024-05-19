@@ -1,6 +1,6 @@
 <h1 align="center">Eae! 🤓 sou Otávio Barbosa Scarpellini</h1>
 <h3 align="center">Um estudante e profissional de development</h3>
-<img align="right" alt="codingCat" width="400" src="https://imgs.search.brave.com/Lz4S373375Xo1ePhuQrAqupuEqT8wzv4jBuUXQYqxsw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhLzNvS0lQ/bkFpYU1Dd3M4bk9z/RS9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/bTMxenI1NThpenF6/YW9scXp4ZTFueG5t/ZDB5MHR6MG9kNGxl/MGV6ZyZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
+<img align="right" alt="codingCat" width="200" src="https://imgs.search.brave.com/Lz4S373375Xo1ePhuQrAqupuEqT8wzv4jBuUXQYqxsw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhLzNvS0lQ/bkFpYU1Dd3M4bk9z/RS9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/bTMxenI1NThpenF6/YW9scXp4ZTFueG5t/ZDB5MHR6MG9kNGxl/MGV6ZyZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviobscar&label=Profile%20views&color=0e75b6&style=flat" alt="otaviobscar" /> </p>
 
@@ -8,12 +8,11 @@
 
 - 🤓 Ando estudando: **ReactJs, Vue 3, Python, NodeJs, SQL**
 
-- 📫 Entre em contato **otavio.scarpelline@gmail.com**
-
 - 📄 Minhas experiências: [https://www.linkedin.com/in/otaviobscar/](https://www.linkedin.com/in/otaviobscar/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato:</h3>
 <p align="left">
+<a href="otavio.scarpelline@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/LPcVDft9Isqt/email" alt="otavio barbosa scarpellini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/otavio barbosa scarpellini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otavio barbosa scarpellini" height="30" width="40" /></a>
 </p>
 
