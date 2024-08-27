@@ -6,7 +6,7 @@
 
 - 😍 Atualmente estou cursando ensino superior [Análise e Desenvolvimento de Sistemas](https://www.fatecid.com.br/site/)
 
-- 🤓 Ando estudando: **ReactJs, Vue 3, Python, NodeJs, SQL**
+- 🤓 Ando estudando: **ReactJs, Vue 3, Python, NodeJs, SQL, JAVA**
 
 - 📄 Minhas experiências: [Desenvolvedor](https://www.linkedin.com/in/otaviobscar/)
 
