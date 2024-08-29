@@ -10,7 +10,7 @@
 
 - 📄 Minhas experiências: [Desenvolvedor](https://www.linkedin.com/in/otaviobscar/)
 
-- ✉️ Email: otavio.scarpelline@gmail.com
+- ✉️ Email: otaviobscarpellini@gmail.com
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
