@@ -1,6 +1,6 @@
 <h1 align="center">Opa! sou Otávio Barbosa Scarpellini</h1>
 <h3 align="center">Um estudante e profissional de programação</h3>
-<img align="right" alt="codingCat" width="200" src="[https://imgs.search.brave.com/Lz4S373375Xo1ePhuQrAqupuEqT8wzv4jBuUXQYqxsw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhLzNvS0lQ/bkFpYU1Dd3M4bk9z/RS9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/bTMxenI1NThpenF6/YW9scXp4ZTFueG5t/ZDB5MHR6MG9kNGxl/MGV6ZyZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif](https://miro.medium.com/v2/resize:fit:1360/1*m43Pv4nJJgPdaxDAdLc8XQ.gif)">
+<img align="right" alt="coding" width="200" src="https://miro.medium.com/v2/resize:fit:1360/1*m43Pv4nJJgPdaxDAdLc8XQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviobscar&label=Profile%20views&color=0e75b6&style=flat" alt="otaviobscar" /> </p>
 
