@@ -6,7 +6,7 @@
 
 - 🏫 Atualmente estou cursando ensino superior [Análise e Desenvolvimento de Sistemas](https://www.fatecid.com.br/site/)
 
-- 🤓 Ando estudando: **ReactJs, NodeJs, SQL, JAVA**
+- 🤓 Ando estudando: **Python, PowerApps, PowerBI, Typescript**
 
 - 📄 Minhas experiências: [Desenvolvedor](https://www.linkedin.com/in/otaviobscar/)
 
